@@ -1,6 +1,6 @@
 # Hi, I'm Reeha Poudyal 
 
-**B.Tech in Artificial Intelligence, Kathmandu University** | **Job Experience: Junior R&D Engineer at Javra Software**
+**B.Tech in Artificial Intelligence, Kathmandu University** | 
 
 Focused on building practical AI systems with an emphasis on real-world deployment. 
 
